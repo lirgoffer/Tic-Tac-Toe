@@ -1,0 +1,2 @@
+# Tic-Tac-Toe
+Implemented X-circle game using C++ with a class-based approach. Classes include Cell, Board, Player, and Game, enabling two players to play on a 3x3 board. The game logic involves marking cells to form a row, column, or diagonal. The program manages player moves, updates the game state, and handles printing the board. Files submitted include Cell.h, Cell.cpp, Board.h, Board.cpp, Player.h, Player.cpp, Game.h, Game.cpp, and driver.cpp.
